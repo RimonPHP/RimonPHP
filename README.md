@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Rimon Hoshen**  
 
-🚀 **Software Developer** | 🎯 Based in **[WakeUp ICT](https://wakeupict.com/), Bangladesh**  
+🚀 **Web Application Developer** | 🎯 Based in **[WakeUp ICT](https://wakeupict.com/), Bangladesh**  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rimonhoshen/">
