@@ -8,7 +8,7 @@ WakeUp ICT · Dhaka, Bangladesh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimonhoshen/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](http://www.github.com/RimonPHP)
-[![Portfolio](https://img.shields.io/badge/Website-rimonphp.com-FF4500?style=flat-square)](http://www.rimon.com)
+[![Portfolio](https://img.shields.io/badge/Website-rimon.com-FF4500?style=flat-square)](http://www.rimon.com)
 [![Email](https://img.shields.io/badge/Email-rimonhoshen@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rimonhoshen@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=RimonPHP&style=flat-square&color=1D9E75)](http://www.github.com/RimonPHP)
 
